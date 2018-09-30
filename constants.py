@@ -1,0 +1,11 @@
+
+# Path
+RAWDATA_PATH = 'rawdata'
+DATA_PATH = 'data'
+RESULT_PATH = 'result'
+MODEL_PATH = 'saved_model'
+OBV_TYPES = ['SURFACE_ASOS', 'SURFACE_AWS', 'MARINE_BUOY', 'MARINE_CWBUOY', 'MARINE_LH']
+
+# Random Seed
+TF_SEED = 777
+NP_SEED = 777
